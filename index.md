@@ -2,7 +2,7 @@
 title: 4. Semester
 layout: default
 ---
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="https://Slartibartfast421618.github.io/assets/css/style.css">
 
 # 4. Semester
 
