@@ -9,7 +9,7 @@ layout: home
 ## Projektstyring
 
 ### Feedback?
-- **Projektstyringsmodel**
+  - Projektstyringsmodel
   - Procesmodeller
   - Tidsplan/Estimering
   - Kommunikation
@@ -36,12 +36,12 @@ layout: home
 
 ### Feedback
 - Relational database
-- **SQL**
+- SQL
 
 ### FeedUp
-- **Python/R**
+- Python/R
 - Indfør automatiserede rapporter for at spare tid på manuel analyse.
-- **Dashboards**
+- Dashboards
 - Hvordan projektstyringen kombineres med data science?
 
 ### FeedForward
