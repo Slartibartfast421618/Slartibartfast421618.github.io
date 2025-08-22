@@ -1,7 +1,7 @@
 # _config.yml
 title: Pisse flot pages
 description: En rigtig flot side lavet af mig, til mig, for mig. Adjø
-theme: minima  # Et standardtema fra GitHub Pages
+theme: minima 
 
 # Valgfrit: Tilpas header og footer
 header_pages:
