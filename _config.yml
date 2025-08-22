@@ -1,0 +1,8 @@
+# _config.yml
+title: Min GitHub Pages Side
+description: En simpel side lavet med Jekyll og Markdown
+theme: minima  # Et standardtema fra GitHub Pages
+
+# Valgfrit: Tilpas header og footer
+header_pages:
+  - index.md
