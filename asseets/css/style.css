@@ -1,39 +1,30 @@
 /* assets/css/style.css */
 body {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 h1, h2, h3 {
-  color: #6a0dad !important;
-  border-bottom: 1px solid #333;
-  padding-bottom: 10px;
+    color: #6a0dad !important;
 }
 
 a {
-  color: #1e3a8a !important;
-  text-decoration: none;
-  transition: color 0.3s;
+    color: #1e3a8a !important;
 }
 
 a:hover {
-  color: #8b0000 !important;
-  text-decoration: underline;
+    color: #8b0000 !important;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+.site-header, .page-content {
+    background-color: transparent !important;
 }
 
-li {
-  margin: 10px 0;
-  padding: 8px;
-  background-color: #1e1e1e;
-  border-left: 4px solid #8b0000;
+.page-heading {
+    color: #6a0dad !important;
 }

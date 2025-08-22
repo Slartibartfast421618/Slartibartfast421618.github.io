@@ -1,8 +1,8 @@
 ---
 title: 4. Semester
-layout: default
+layout: home
 ---
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css" />
 
 # 4. Semester
 
