@@ -1,10 +1,7 @@
-\## 4 Semester
-
-
-
+## 4 Semester
 ---
 
-\## Projektstyring
+## Projektstyring
 
 ---
 
@@ -12,31 +9,31 @@ Feedback?
 
 Projektstyringsmodel
 
-\-	Procesmodeller 
+- Procesmodeller 
 
-\-	Tidsplan/ Estimering
+- Tidsplan/ Estimering
 
-\-	Kommunikation
+- Kommunikation
 
-\-	Risikovudering 
+- Risikovudering 
 
 ---
 
 FeedForward
 
-\-	Opsæt et enviorment som understøtter mit feedup og min gruppe.
+- Opsæt et enviorment som understøtter mit feedup og min gruppe.
 
 ---
 
 FeedUp
 
-\-	Undersøg om en struktureret planlægnings metode som PERT kan kombineres med en mere agile og iterativ framework som scrum.
+- Undersøg om en struktureret planlægnings metode som PERT kan kombineres med en mere agile og iterativ framework som scrum.
 
-\-	Forsøg hvordan man kan fjerne udefrakommende distraktioner og støj for at produktionen kan fokusere på produktionen.
+- Forsøg hvordan man kan fjerne udefrakommende distraktioner og støj for at produktionen kan fokusere på produktionen.
 
-\-	Hvordan den bedst mulige kommunikation kan foregå så der ikke er misforståelser hverken intern eller ekstern.
+- Hvordan den bedst mulige kommunikation kan foregå så der ikke er misforståelser hverken intern eller ekstern.
 
-\-	Undersøg hvordan "Three amgios" kan forbedre kommunikationen.
+- Undersøg hvordan "Three amgios" kan forbedre kommunikationen.
 
 ---
 
@@ -46,43 +43,43 @@ FeedUp
 
 Reflektion uge 34:
 
-\-	Kalender til overblik over ferier, sygeorlov osv
+- Kalender til overblik over ferier, sygeorlov osv
 
-\-	Ugeskema for guildmøder
+- Ugeskema for guildmøder
 
-\-	Oprettet git med gitignore
+- Oprettet git med gitignore
 
-\-	Studeret PERT 
+- Studeret PERT 
 
 ---
 
 
 
-\## Data science and analytics
+## Data science and analytics
 
 Feedback:
 
-\-	Relational database 
+- Relational database 
 
-\-	SQL
+- SQL
 
 ---
 
 Feedup:
 
-\-	Phyton / R
+- Phyton / R
 
-\-	Indfør automatiserede rapporter for at spare tid på manuel analyse.
+- Indfør automatiserede rapporter for at spare tid på manuel analyse.
 
-\-	Dashboards 
+- Dashboards 
 
-\-	Hvodan projektstyringen kombineres med data science?
+- Hvodan projektstyringen kombineres med data science?
 
 ---
 
 Feed forward:
 
-\-	EDA - Exploratory Data Analysis
+- EDA - Exploratory Data Analysis
 
 ---
 
