@@ -24,12 +24,6 @@ layout: home
 - Hvordan kan den bedst mulige kommunikation foregå, så der ikke er misforståelser hverken internt eller eksternt.
 - Undersøg, hvordan **"Three Amigos"** kan forbedre kommunikationen.
 
-### Reflektion (uge 34)
-- Kalender til overblik over ferier, sygeorlov osv.
-- Ugeskema for guildmøder
-- Oprettet Git med `.gitignore`
-- Studeret **PERT**
-- Undersøg muligheden for brugen af gitproject
 
 ---
 
@@ -91,5 +85,7 @@ Data Science and Analytics kan anvendes til at analysere og rense eksisterende d
 **Rute B – Post API**
 Alternativt kan Data Science and Analytics anvendes efter, at en API har foretaget et dataudtræk. Her vil analysen fokusere på at validere og strukturere de indsamlede data.
 
+
+##Konklusion##
 **Usikkerhed og kompleksitet:**
 På nuværende tidspunkt er der usikkerhed omkring, hvordan API’en skal anvendes, hvilket direkte påvirker, hvordan Data Science and Analytics kan implementeres. Denne usikkerhed skaber udfordringer for projektplanlægningen, da det er svært at fastlægge tidslinjer og afhængigheder. For at håndtere denne kompleksitet udarbejdes et PERT-diagram, der skal kortlægge projektets afhængigheder og kritiske elementer. Usikkerheden omkring API-anvendelsen gør det dog vanskeligt at præcist definere input og output til diagrammet.
