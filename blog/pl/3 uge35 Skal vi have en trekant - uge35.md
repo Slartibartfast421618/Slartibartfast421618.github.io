@@ -13,6 +13,9 @@ Hvert hjørne i trekanten repræsenterer følgende parametre:
 - **Kvalitet:** Omfang, standard og funktioner, samt hvordan de udføres
 - **Ressourcer:** Mennesker, værktøjer, mandetimer
 
+### Hvorfor bruge projekttrekanten?
+Projekttrekanten tvinger os til at danne overblik over, hvad vi har at gøre brug af. Den hjælper med at træffe bevidste prioriteringer. På samme måde som trekanten giver stabilitet i konstruktioner, giver den os klarhed i et projekt med begrænsede ressourcer og fast deadline.
+
 ### Anvendelse af trekanten
 Man fastlåser sig på to hjørner, og det tredje hjørne påvirkes automatisk af ændringer i de to andre.
 
@@ -37,7 +40,8 @@ Vi har valgt at fastlåse **tid (1. december)** og **ressourcer**. Derfor bliver
 ---
 
 ## Konklusion
-Vi vælger at prioritere **tid** og **ressourcer**, så **kvaliteten** tilpasses efter de andre parametre. Deadlinen er fastsat, da dette er et skoleprojekt, og vi accepterer, at det går ud over kvaliteten af produktet.
+Vi vælger at prioritere **tid** og **ressourcer**, så **kvaliteten** tilpasses efter de andre parametre. Deadlinen er fastsat, da dette er et skoleprojekt, og vi accepterer, at det går ud over kvaliteten af produktet. Så for at besvare spørgsmålet om "Skal have en trekant?" Gu fanden skal vi have en trekant. 
 
-### Hvorfor bruge projekttrekanten?
-Projekttrekanten tvinger os til at danne overblik over, hvad vi har at gøre brug af. Den hjælper med at træffe bevidste prioriteringer. På samme måde som trekanten giver stabilitet i konstruktioner, giver den os klarhed i et projekt med begrænsede ressourcer og fast deadline.
+Mojn
+
+
