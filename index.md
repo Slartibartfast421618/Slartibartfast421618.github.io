@@ -1,4 +1,4 @@
-# Æ kvad
+# Æ Datamatiker kvad
 
 ## 1. Introduktion
 Dette projekt omhandler udviklingen af en prissammenligningshjemmeside for dameklip i Bergen. Hjemmesiden vil give brugere mulighed for at sammenligne priser, ledige tider, datoer, ratings og services fra forskellige frisørsaloner i området. Projektet vil blive gennemført som en iværksættervirksomhed med en dedikeret **Product Owner**.
