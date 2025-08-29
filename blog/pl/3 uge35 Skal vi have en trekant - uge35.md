@@ -4,6 +4,9 @@
 
 En trekant er den stærkeste geometriske figur. Den bruges i alverdens konstruktioner på grund af dens styrke til at modstå belastninger.
 
+![bridge]({{ "/assets/images/bridge.png" | relative_url }})
+![eiffel]({{ "/assets/images/eiffel.png" | relative_url }})
+
 ## Projekt-trekanten
 Hvert hjørne i trekanten repræsenterer følgende parametre:
 - **Tid:** Deadline
@@ -13,8 +16,7 @@ Hvert hjørne i trekanten repræsenterer følgende parametre:
 ### Anvendelse af trekanten
 Man fastlåser sig på to hjørner, og det tredje hjørne påvirkes automatisk af ændringer i de to andre.
 
-![bridge]({{ "/assets/images/bridge.png" | relative_url }})
-![eiffel]({{ "/assets/images/eiffel.png" | relative_url }})
+
 ![trekant!]({{ "/assets/images/trekant.png" | relative_url }})
 
 | Prioritet            | Konsekvens for det tredje hjørne                     | Eksempel                                                                                     |
