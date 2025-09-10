@@ -22,3 +22,7 @@ Modsat olie, der er en begrænset ressource, der forbruges, når den bruges, **v
 Artikel:
 [The New Black Gold: How Data Became the Most Valuable Asset in Tech]
 (https://medium.com/@lawrenceteixeira/the-new-black-gold-how-data-became-the-most-valuable-asset-in-tech-9e4541262ddf).
+
+
+- [EDA](dsa/EDA.md)
+- [Python](dsa/python.md)
