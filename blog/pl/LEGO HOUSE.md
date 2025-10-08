@@ -21,7 +21,7 @@ Dernæst gik vi ind i den blå afdeling, hvor vi kunne bygge vores egne biler og
 
 ### Racetrack
 
-<video width="100%" controls>
+<video width="20%" controls>
   <source src="{{ "/assets/videos/racetrack.mp4"   relative_url }}" type="video/mp4">
   Din browser understøtter ikke videoafspilning.
 </video>
