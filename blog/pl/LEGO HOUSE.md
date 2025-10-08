@@ -2,8 +2,9 @@
 
 #Har de andre ben?
 Min gruppe og jeg har været i LEGO House for at møde hinanden i virkeligheden. Da vi studerer på en online uddannelse og jeg selv bor i Norge, var dette en oplagt idé til at mødes fysisk efter to års samarbejde. Jeg havde taget gaver med fra Syditalien som en lille velkomstgave: en **Cornicello** til mine to gruppemedlemmer, Trine og Martin. Cornicello er en lykkeamulet, der skal beskytte mod ondt – en lille gestus for at markere, at jeg sætter pris på vores fællesskab.
-![cornicello]({{ "/assets/images/cornicello.png" | relative_url }})
+
 Som Tuckmans model-artiklen påpeger, kan mange studerende være skeptiske over for gruppearbejde og spørge: *"Hvorfor mødes? At studere er vel at gå til undervisning eller forelæsning?"* Vores dag i LEGO House beviste, at **meningsfulde fælles oplevelser** kan skabe en dybere forståelse og tillid end skærmmøder nogensinde kan.
+![cornicello]({{ "/assets/images/cornicello.png" | relative_url }})
 
 ---
 
@@ -11,7 +12,7 @@ Som Tuckmans model-artiklen påpeger, kan mange studerende være skeptiske over 
 
 Da vi fandt os til rette i LEGO House, kom det indre barn frem i os alle tre. Det første, vi gik til, var et bassin fyldt med gule LEGO-klodser. **Uden at tænke over det** begyndte vi hver især at bygge, hvad der faldt os ind. Den fysiske aktivitet skabte en naturlig ro, der gjorde det lettere at dele erfaringer og lytte til hinanden. Personligt endte mit projekt med noget, der lignede et **Mayatempel eller noget fra Eldorado**. Trine bidrog med designet af templets indendørs gulv.
 
-![gulLego]({{ "/assets/images/GulLego.png" | relative_url }})
+![gulLego]({{ "/assets/images/gulLego.png" | relative_url }})
 
 Dette var et klassisk eksempel på **forming-fasen**, hvor gruppen etableres, og medlemmerne søger inkludering. Artiklen beskriver, at målet i denne fase er at sige: *"Regn med mig"*. Ved at bygge sammen uden forventninger skabte vi en tryg atmosfære, hvor vi alle føltes inkluderet. Den fælles aktivitet gjorde det nemt at åbne op – præcis som Tuckman beskriver det.
 
@@ -32,6 +33,7 @@ Dernæst gik vi ind i den blå afdeling, hvor vi kunne bygge vores egne biler og
   Din browser understøtter ikke videoafspilning.
 </video>
 
+
 **Ved næste aktivitet** ville man mene, vi var på hjemmebane, da det handled om at få en **biavler-robot** til at så, vande og indbringe honning ved hjælp af kommandoer. Martin og jeg er dog enige om, at instruktøren ikke var sin titel værdig, da vi ikke var helt klar over, hvad det gik ud på. Om det så er skylden til, at Trine vandt spillet, er ikke til at vide. Ikke desto mindre må der nok erkendes, at det var **hende, der fik indsamlet mest honning**, og jeg selv, der med længder endte på sidstepladsen.
 
 ![bi]({{ "/assets/images/bi.png" | relative_url }})
@@ -48,7 +50,7 @@ Dette var et tydeligt eksempel på **norming-fasen**, hvor gruppen etablerer kon
 
 ### Stopmotion
 
-<video width="20%" controls>
+<video width="40%" controls>
   <source src="{{ "/assets/videos/stopmotion.mp4"   relative_url }}" type="video/mp4">
   Din browser understøtter ikke videoafspilning.
 </video>
