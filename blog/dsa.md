@@ -14,15 +14,13 @@ Ifølge [*The Economist*](https://www.economist.com/) er verdens mest værdifuld
 
 ## Datas potentiale
 
-Modsat olie, der er en begrænset ressource, der forbruges, når den bruges, **vokser data i værdi**, jo mere det anvendes. Data kan genbruges, kombineres og forfines uendeligt. Samtidig rejser det vigtige spørgsmål om **etik**, **privatliv** og **ejerskab**:
-- Hvem ejer data?
-- Hvordan beskyttes det?
-- Hvordan sikrer vi, at det bruges ansvarligt?
+Modsat olie, der er en begrænset ressource, der forbruges, når den bruges, **vokser data i værdi**, jo mere det anvendes. Data kan genbruges, kombineres og forfines uendeligt. Samtidig rejser det vigtige spørgsmål om **etik**, **privatliv** og **ejerskab**
+
 
 Artikel:
 [The New Black Gold: How Data Became the Most Valuable Asset in Tech]
 (https://medium.com/@lawrenceteixeira/the-new-black-gold-how-data-became-the-most-valuable-asset-in-tech-9e4541262ddf).
 
 
-- [EDA](dsa/EDA.md)
-- [Python](dsa/python.md)
+- [EDA](dsa/2 EDA.md)
+- [Python](dsa/1 python.md)
