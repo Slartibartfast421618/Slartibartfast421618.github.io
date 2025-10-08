@@ -4,6 +4,7 @@
 Min gruppe og jeg har været i LEGO House for at møde hinanden i virkeligheden. Da vi studerer på en online uddannelse og jeg selv bor i Norge, var dette en oplagt idé til at mødes fysisk efter to års samarbejde. Jeg havde taget gaver med fra Syditalien som en lille velkomstgave: en **Cornicello** til mine to gruppemedlemmer, Trine og Martin. Cornicello er en lykkeamulet, der skal beskytte mod ondt – en lille gestus for at markere, at jeg sætter pris på vores fællesskab.
 
 Som Tuckmans model-artiklen påpeger, kan mange studerende være skeptiske over for gruppearbejde og spørge: *"Hvorfor mødes? At studere er vel at gå til undervisning eller forelæsning?"* Vores dag i LEGO House beviste, at **meningsfulde fælles oplevelser** kan skabe en dybere forståelse og tillid end skærmmøder nogensinde kan.
+
 ![cornicello]({{ "/assets/images/cornicello.png" | relative_url }})
 
 ---
