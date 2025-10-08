@@ -19,10 +19,10 @@ Dette var et klassisk eksempel på **forming-fasen**, hvor gruppen etableres, og
 
 Dernæst gik vi ind i den blå afdeling, hvor vi kunne bygge vores egne biler og teste dem på racetracks. Jeg gik efter et **trehjulet design**, mens Trine og Martin byggede mere traditionelle biler. Min bil var desværre for skrøbelig og kunne ikke klare testen. Trine valgte et **sabotage-design**, der hver gang kørte Martins bil ud af banen i stedet for at nå målstregen. Vi må konkludere, at Martin byggede den mest funktionelle bil, da den hverken gik i stykker eller var skæv i styrretøjet.
 
-### Vores stopmotion-film fra LEGO House
+### Racetrack
 
 <video width="100%" controls>
-  <source src="{{ "/assets/videos/racetrack.MOV"   relative_url }}" type="video/MOV">
+  <source src="{{ "/assets/videos/racetrack.mp4"   relative_url }}" type="video/mp4">
   Din browser understøtter ikke videoafspilning.
 </video>
 
