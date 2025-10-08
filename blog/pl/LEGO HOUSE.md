@@ -91,4 +91,4 @@ Man skulle tro, at alle planterne stod på linje den dag, for om det ikke var no
 
 Tuckmans model viser, at gruppeudvikling er en dynamisk proces. Vores dag i LEGO House beviste, at den bedste læring sker, når man glemmer, at man lærer – og måske især, når man opdager, at de mennesker, man samarbejder med, ikke bare er profiler på en skærm, men rigtige mennesker med humor, ideer og, ja, ben.
 
-![legohouse]({{ "/assets/images/legohouse.png" | relative_url }})
+![legohotel]({{ "/assets/images/legohotel.png" | relative_url }})
