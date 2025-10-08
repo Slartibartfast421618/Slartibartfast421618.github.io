@@ -2,7 +2,7 @@
 
 #Har de andre ben?
 Min gruppe og jeg har været i LEGO House for at møde hinanden i virkeligheden. Da vi studerer på en online uddannelse og jeg selv bor i Norge, var dette en oplagt idé til at mødes fysisk efter to års samarbejde. Jeg havde taget gaver med fra Syditalien som en lille velkomstgave: en **Cornicello** til mine to gruppemedlemmer, Trine og Martin. Cornicello er en lykkeamulet, der skal beskytte mod ondt – en lille gestus for at markere, at jeg sætter pris på vores fællesskab.
-
+![cornicello]({{ "/assets/images/cornicello.png" | relative_url }})
 Som Tuckmans model-artiklen påpeger, kan mange studerende være skeptiske over for gruppearbejde og spørge: *"Hvorfor mødes? At studere er vel at gå til undervisning eller forelæsning?"* Vores dag i LEGO House beviste, at **meningsfulde fælles oplevelser** kan skabe en dybere forståelse og tillid end skærmmøder nogensinde kan.
 
 ---
@@ -11,13 +11,19 @@ Som Tuckmans model-artiklen påpeger, kan mange studerende være skeptiske over 
 
 Da vi fandt os til rette i LEGO House, kom det indre barn frem i os alle tre. Det første, vi gik til, var et bassin fyldt med gule LEGO-klodser. **Uden at tænke over det** begyndte vi hver især at bygge, hvad der faldt os ind. Den fysiske aktivitet skabte en naturlig ro, der gjorde det lettere at dele erfaringer og lytte til hinanden. Personligt endte mit projekt med noget, der lignede et **Mayatempel eller noget fra Eldorado**. Trine bidrog med designet af templets indendørs gulv.
 
+![gulLego]({{ "/assets/images/GulLego.png" | relative_url }})
+
 Dette var et klassisk eksempel på **forming-fasen**, hvor gruppen etableres, og medlemmerne søger inkludering. Artiklen beskriver, at målet i denne fase er at sige: *"Regn med mig"*. Ved at bygge sammen uden forventninger skabte vi en tryg atmosfære, hvor vi alle føltes inkluderet. Den fælles aktivitet gjorde det nemt at åbne op – præcis som Tuckman beskriver det.
+
+![eldorado]({{ "/assets/images/eldorado.png" | relative_url }})
 
 ---
 
 ## Storming: "Vi bestemmer sammen" – når aktiviteter afslører forskelligheder
 
 Dernæst gik vi ind i den blå afdeling, hvor vi kunne bygge vores egne biler og teste dem på racetracks. Jeg gik efter et **trehjulet design**, mens Trine og Martin byggede mere traditionelle biler. Min bil var desværre for skrøbelig og kunne ikke klare testen. Trine valgte et **sabotage-design**, der hver gang kørte Martins bil ud af banen i stedet for at nå målstregen. Vi må konkludere, at Martin byggede den mest funktionelle bil, da den hverken gik i stykker eller var skæv i styrretøjet.
+
+![biler]({{ "/assets/images/biler.png" | relative_url }})
 
 ### Racetrack
 
@@ -28,6 +34,8 @@ Dernæst gik vi ind i den blå afdeling, hvor vi kunne bygge vores egne biler og
 
 **Ved næste aktivitet** ville man mene, vi var på hjemmebane, da det handled om at få en **biavler-robot** til at så, vande og indbringe honning ved hjælp af kommandoer. Martin og jeg er dog enige om, at instruktøren ikke var sin titel værdig, da vi ikke var helt klar over, hvad det gik ud på. Om det så er skylden til, at Trine vandt spillet, er ikke til at vide. Ikke desto mindre må der nok erkendes, at det var **hende, der fik indsamlet mest honning**, og jeg selv, der med længder endte på sidstepladsen.
 
+![bi]({{ "/assets/images/bi.png" | relative_url }})
+
 Her oplevede vi **storming-fasen**, hvor forskellige ambitioner og opfattelser kommer frem. Artiklen nævner, at denne fase handler om at koordinere roller og håndtere uenigheder. Selvom der ikke var åbne konflikter, afslørede aktiviteterne vores forskellige tilgange: Trine udfordrede reglerne (og vandt), Martin var pragmatisk og effektiv, og jeg lærte, at mit design eller min strategi ikke altid er det mest holdbare. Dette viser, hvordan storming kan være **lærende**, når man tillader plads til forskellighed.
 
 ---
@@ -37,6 +45,14 @@ Her oplevede vi **storming-fasen**, hvor forskellige ambitioner og opfattelser k
 Sidste aktivitet, som vi nød godt af, var vores lille **stopmotion-projekt**. Her fik vi vores eget lille LEGO-miniaturestudio, hvor vi kunne lave vores egen lille historie ved hjælp af eksisterende rekvisitter og scener. Dette var særdeles sjovt og en **kæmpe samarbejdsproces**, da vi havde et fælles mål denne gang. Om resultatet er godt, må være op til den enkelte seer, men det kan ikke være nogen tvivl om, at processen var **sjov, lærerig og yderst tilfredsstillende**.
 
 Dette var et tydeligt eksempel på **norming-fasen**, hvor gruppen etablerer konsensus og åben kommunikation. Artiklen understreger, at målet her er at sige: *"Sig hvad du mener"*. Processen var præget af samarbejde og latter, og selvom vi ikke vidste, hvordan resultatet ville blive, var selve processen sjov, lærerig og yderst tilfredsstillende – præcis som Tuckman beskriver det.
+
+### Stopmotion
+
+<video width="20%" controls>
+  <source src="{{ "/assets/videos/stopmotion.mp4"   relative_url }}" type="video/mp4">
+  Din browser understøtter ikke videoafspilning.
+</video>
+
 
 ---
 
@@ -71,3 +87,5 @@ Artikler kritiserer Tuckmans model for at være for individ-fokuseret og introdu
 Man skulle tro, at alle planterne stod på linje den dag, for om det ikke var nok, at vi skulle mødes i Billund, så ville "guderne" det også, at vi skulle møde to af vores undervisere. Så efter en yderst underholdende dag i LEGO House, mødtes vi med dem på LEGO Hotel, hvor vi fik en **sludder for en sludder**. Det var den perfekte afrunding på en dag, der styrkede vores fællesskab både som studerende og som team.
 
 Tuckmans model viser, at gruppeudvikling er en dynamisk proces. Vores dag i LEGO House beviste, at den bedste læring sker, når man glemmer, at man lærer – og måske især, når man opdager, at de mennesker, man samarbejder med, ikke bare er profiler på en skærm, men rigtige mennesker med humor, ideer og, ja, ben.
+
+![legohouse]({{ "/assets/images/legohouse.png" | relative_url }})
