@@ -24,5 +24,4 @@ Artikel:
 
 - [EDA](dsa/2 EDA.md)
 - [Python](dsa/1 python.md)
-- [Python](dsa/1 2 EDA.md)
-- [Python](dsa/1 websrabing.md)
+- [webscabing](dsa/webscabing.md)
